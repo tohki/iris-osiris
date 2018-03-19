@@ -1,6 +1,6 @@
 # OSIRIS: An open source iris recognition software in Docker
 
-This is an docker container version of OSIRIS: an open source iris recognition software originally proposed in [1].
+This is an docker version of OSIRIS: an open source iris recognition software originally proposed in [1].
 
 tohki/iris-osiris - Docker Hub
 
