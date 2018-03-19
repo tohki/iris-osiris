@@ -2,6 +2,9 @@
 
 This is an docker container version of OSIRIS: an open source iris recognition software originally proposed in [1].
 
+tohki/iris-osiris - Docker Hub
+https://hub.docker.com/r/tohki/iris-osiris/
+
 ## Usage
 ```bash
 $ docker run -it \
