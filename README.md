@@ -20,7 +20,7 @@ $ docker run -it \
 You can change the script as you like (e.g.  /OSIRIS/scripts/Matching/configulation.ini).
 To see and customize example scripts, please refer the original source and document [2].
 
-Note that /path/to/result should have the following structure (please make blank folders).
+Note that /path/to/result should have the following structure (please make blank directories).
 
 ```
 /path/to/result
